@@ -60,5 +60,6 @@ En tant que développeur principal sur ce projet, j'ai eu la responsabilité de 
 ## Auteur
 
 *   **Idriss Cabrel MBIAPO NZEPA**
-*   [Profil LinkedIn]
-*   [Profil GitHub]
+*   [Profil LinkedIn](https://www.linkedin.com/in/idriss-cabrel-mbiapo-nzepa-b1222a363)
+*   [Profil GitHub](https://github.com/idriss-mbiapo/)
+
